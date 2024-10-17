@@ -1,9 +1,9 @@
 # Core Video Live Streaming Player Code
  -This code implements video live stream processing using OpenCV, and ensures the video delay is less than 1 second through C++ encoding.
 
-/libs/armeabi-v7a provides two key components:
-  1：A library compiled for armeabi-v7a based on OpenCV + Android.
-  2：libvideo_play.so, which contains the JNI-implemented playback code.
+> /libs/armeabi-v7a provides two key components:
+  1. armeabi-v7a, based on OpenCV + Android.
+  2. libvideo_play.so, JNI-implemented playback code.
   
 ## Detailed Steps
 1. Add ndk configuration in build.gradle.kts to specify the dynamic library used by Android
