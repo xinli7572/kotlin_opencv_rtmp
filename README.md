@@ -2,6 +2,9 @@
 
 This project demonstrates how to capture video from the camera using **Kotlin** and **OpenCV**, and then stream the video to an **RTMP server**. It integrates OpenCV for video capture and processing, and can send the processed video stream to a remote RTMP server.
 
+https://github.com/user-attachments/assets/e0457739-98f4-499f-9bf1-83a507b0c462
+
+
 ## Features
 
 - **Video Capture**: Captures video from the camera using OpenCV.
@@ -106,4 +109,3 @@ Feel free to fork this repository and contribute to the project! You can:
 - Add new features or enhancements.
 - Improve documentation or the user interface.
 
-https://github.com/user-attachments/assets/e0457739-98f4-499f-9bf1-83a507b0c462
